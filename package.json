@@ -1,0 +1,29 @@
+{
+  "name": "BladeX",
+  "displayName": "BladeX",
+  "description": "BladeX Dark Theme - Feel something New!",
+  "version": "0.0.1",
+  "publisher": "LevelUp",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "BladeX",
+    "BladeX theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BladeX",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BladeX-color-theme.json"
+      }
+    ]
+  
+  }
+}
